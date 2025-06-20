@@ -85,5 +85,16 @@ Root Mean Squared Error (RMSE): 3.1 vehicles
 **Result**
 Counting Accuracy: 92.5%
 
+**Citation:**
+
+  title     = {A CNN-Based Framework for Accurate Traffic Detection, Classification, and Volume Estimation in Intelligent Transportation Systems},
+  author    = {Anita Thangam C and Kavitha T},
+  booktitle = {Proceedings of the International Conference on Computing, Communication and Artificial Intelligence (ICCCAI 2025)},
+  year      = {2025},
+  publisher = {Springer},
+  note      = {Accepted for publication},
+  address   = {Karunya Institute of Technology and Sciences, Coimbatore, India}
+
+
 
 
